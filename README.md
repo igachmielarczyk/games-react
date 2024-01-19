@@ -27,7 +27,7 @@ Game Explorer is an application designed to provide information about the latest
 1. Clone this repository:
 
     ```bash
-    git clone [https://link-to-your-repository.git](https://github.com/igachmielarczyk/games-react.git)
+    git clone https://github.com/igachmielarczyk/games-react.git
     ```
 
 2. Navigate to the project folder:
